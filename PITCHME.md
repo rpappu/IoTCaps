@@ -1,6 +1,6 @@
-# IoT - Core Technology Capabilities 
+# IoT 
 
-An application architecture for React
+Eliminating the paradox of choice
 
 ---
 
