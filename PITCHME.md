@@ -17,5 +17,5 @@ Eliminating the paradox of choice
 ---
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+|    * Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
