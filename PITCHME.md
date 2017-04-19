@@ -1,4 +1,4 @@
-# Flux 
+# IoT - Core Technology Capabilities 
 
 An application architecture for React
 
