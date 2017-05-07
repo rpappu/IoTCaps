@@ -53,9 +53,32 @@ Chief Architect, InQTel
 
 _Sensing and Power are also core capabilities. I chose to omit them here because they are very domain-specific._
 --- 
-### Communication
+# Communication
+
++++
+### Exercise
 
 ![signaling-mirror](assets/signalling-mirror.jpg)
+
++++ I
+### IoT Comms Requirements
+1. Low cost
+2. Long range 
+3. Long operating times i.e., low power consumption
+4. High concurrency
+5. Efficiency: optimized for short data payloads
+6. Mobility
+7. In-building penetration
+8. Bi-directional communication
+9. Global license-free operation
+
++++
+### Governing Equations
+Shannon Capacity 
+
+$$C = B\log_{2}(1+\frac(S, N)$$
+
+
 
 ---
 ### Hardware
