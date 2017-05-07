@@ -60,7 +60,7 @@ _Sensing and Power are also core capabilities. I chose to omit them here because
 
 ![signaling-mirror](assets/signalling-mirror.jpg)
 
-+++ I
++++ 
 ### IoT Comms Requirements
 1. Low cost
 2. Long range 
