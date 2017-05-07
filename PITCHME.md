@@ -1,4 +1,4 @@
-### Core Capabilitiesof IoT Systems
+### Fundamental Capabilities of IoT Systems
 #### Requirements and Tradeoffs
 
 Ravi Pappu
