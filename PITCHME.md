@@ -51,11 +51,11 @@ Chief Architect, InQTel
 6. Security
 6. Analytics
 
-_Sensing and Power are also core capabilities. I choose to omit them here because they are very domain-specific._
+_Sensing and Power are also core capabilities. I chose to omit them here because they are very domain-specific._
 --- 
 ### Communication
 
-
+![signaling mirror](assets/signalling-mirror.jpg)
 
 
 
