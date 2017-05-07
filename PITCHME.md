@@ -55,9 +55,7 @@ _Sensing and Power are also core capabilities. I chose to omit them here because
 --- 
 ### Communication
 
-![signaling mirror](assets/signalling-mirror.jpg)
-
-
+---?image=assets/signalling-mirror.jpg
 
 ---
 ### Hardware
