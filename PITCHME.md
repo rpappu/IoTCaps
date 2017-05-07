@@ -80,7 +80,7 @@ $$C = B\log_{2}(1+\frac{S}{N})$$
 
 Friis Propagation 
 
-$$P_{r} = P_{t}G_{t}G_{r}(\frac{\lambda}{4\pi}^2})(\frac{1}{r}^2})$$
+$$P_{r} = P_{t}G_{t}G_{r}$$
 
 
 ---
