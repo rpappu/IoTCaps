@@ -1,6 +1,9 @@
-### IoT 
+### Internet of Things
+Capabilities and Tradeoffs
 
-Eliminating the paradox of choice
+Ravi Pappu
+Chief Architect, InQTel
+
 
 ---
 ### Contents
