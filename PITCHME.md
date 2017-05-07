@@ -2,6 +2,7 @@
 Capabilities and Tradeoffs
 
 Ravi Pappu
+
 Chief Architect, InQTel
 
 
@@ -15,6 +16,8 @@ Chief Architect, InQTel
 
 +++
 ### 1. Software representations of things
+
+
 
 
 +++
@@ -42,13 +45,49 @@ Chief Architect, InQTel
 ### Core Capabilities of Iot Systems
 
 1. Communication
-2. Software
-3. Hardware
+2. Hardware
+3. Software
 5. Management
 6. Security
 6. Analytics
 
 Note: Sensing and Power are also core capabilities. I choose to omit them here because they are very domain-specific. 
+--- 
+### Communication
+
+
+
+
+
+---
+### Hardware
+
+
+
+
+---
+### Software
+
+
+
+---
+### Management
+
+
+
+---
+### Security
+
+
+
+
+
+---
+### Analytics
+
+
+
+
 
 
 
