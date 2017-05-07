@@ -1,36 +1,36 @@
-# IoT 
+### IoT 
 
 Eliminating the paradox of choice
 
 ---
-# Contents
+### Contents
 
 
 
 ---
-# Four Big Ideas
+### Four Big Ideas
 
 +++
-# 1. Software representations of things
-
-
-+++
-# 2. Invisible technology
-
+### 1. Software representations of things
 
 
 +++
-# 3. Measurement, measurement, measurement
+### 2. Invisible technology
 
 
 
 +++
-# 4. Recombinant technology capabilities
+### 3. Measurement, measurement, measurement
+
+
+
++++
+### 4. Recombinant technology capabilities
 
 
 
 ---
-# Core Capabilities
+### Core Capabilities
 
 1. Communication
 2. Software
