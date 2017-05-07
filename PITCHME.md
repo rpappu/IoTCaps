@@ -76,7 +76,7 @@ _Sensing and Power are also core capabilities. I chose to omit them here because
 ### Governing Equations
 Shannon Capacity 
 
-$$C = B\log_{2}(1+\frac(S, N)$$
+$$C = B\log_{2}(1+\frac{S}{N})$$
 
 
 
