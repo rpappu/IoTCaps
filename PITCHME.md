@@ -30,7 +30,13 @@ Eliminating the paradox of choice
 
 
 ---
-### Core Capabilities
+### Node, Gateway, Cloud model of IoT
+
+
+
+
+---
+### Core Capabilities of Iot Systems
 
 1. Communication
 2. Software
@@ -38,6 +44,8 @@ Eliminating the paradox of choice
 5. Management
 6. Security
 6. Analytics
+
+Note: Sensing and Power are also core capabilities. I choose to omit them here because they are very domain-specific. 
 
 
 
