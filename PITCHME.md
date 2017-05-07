@@ -1,5 +1,5 @@
 ### Internet of Things
-Capabilities and Tradeoffs
+#### Capabilities and Tradeoffs
 
 Ravi Pappu
 
