@@ -3,19 +3,41 @@
 Eliminating the paradox of choice
 
 ---
+# Contents
 
-### Flux Design
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
 
 ---
+# Four Big Ideas
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
++++
+# 1. Software representations of things
+
+
++++
+# 2. Invisible technology
+
+
+
++++
+# 3. Measurement, measurement, measurement
+
+
+
++++
+# 4. Recombinant technology capabilities
+
+
 
 ---
-| First Header  | Second Header |
-| ------------- | ------------- |
-|    * Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Core Capabilities
+
+1. Communication
+2. Software
+3. Hardware
+5. Management
+6. Security
+6. Analytics
+
+
+
