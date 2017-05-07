@@ -1,5 +1,5 @@
-### Internet of Things
-#### Capabilities and Tradeoffs
+### Core Capabilitiesof IoT Systems
+#### Requirements and Tradeoffs
 
 Ravi Pappu
 
