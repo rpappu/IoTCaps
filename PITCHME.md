@@ -80,7 +80,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 ### Computing vs. Commmunication
 ![computing-vs-communication](assets/computing-vs-communication.jpg)
 +++
-### Cummunications Tradeoffs
+### Communications Tradeoffs
 1. Range vs. Power
 2. Directionality vs. Size or Cost
 3. Bandwidth vs. Power
