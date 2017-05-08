@@ -15,9 +15,9 @@ Chief Architect, InQTel
 ### Four Big Ideas
 
 +++
-### 1. Software representations of things
+### Idea #1
 
-
+## Software representations of things
 
 
 +++
@@ -36,7 +36,7 @@ Chief Architect, InQTel
 
 
 ---
-### Node, Gateway, Cloud model of IoT
+### IoT dominant paradigm
 
 
 
@@ -53,7 +53,7 @@ Chief Architect, InQTel
 
 _Sensing and Power are also core capabilities. I chose to omit them here because they are very domain-specific._
 --- 
-# Communication
+## Communication
 
 +++
 ### Exercise
@@ -84,30 +84,30 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 
 ---
-### Hardware
+## Hardware
 
 
 
 
 ---
-### Software
+## Software
 
 
 
 ---
-### Management
+## Management
 
 
 
 ---
-### Security
+## Security
 
 
 
 
 
 ---
-### Analytics
+## Analytics
 
 
 
