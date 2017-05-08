@@ -7,21 +7,26 @@ Chief Architect, InQTel
 
 
 ---
-### Contents
+## Contents
 
 
 
 ---
-### Four Big Ideas
+## Four Big Ideas
 
 +++
-### Idea #1
+## Idea #1
 
 ## Software representations of things
 
 
 +++
-### 2. Invisible technology
+## Idea #2
+
+## Invisible technology
+
+> The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.
+> Marc Weiser, The Computer in the 21st Century, Scientific American, September 1991.
 
 
 
