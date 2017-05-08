@@ -15,15 +15,12 @@ Chief Architect, InQTel
 ## Four Big Ideas
 
 +++
-## Idea #1
+## 1. Software representations of things
 
-## Software representations of things
 >Anything that can be represented by software _will_ be represented by software...separating the logical content of objects from their physical representation – cleaving the bits from the atoms.
 
 +++
-## Idea #2
-
-## Invisible technology
+## 2. Invisible technology
 
 > The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it. - Marc Weiser
 
@@ -35,7 +32,7 @@ Chief Architect, InQTel
 +++
 ### 4. Recombinant technology capabilities
 
->The more technology artifacts we have, the more we will have, ow- ing to the power of recombination. Engineering relies on the encapsulation of discrete capabilities into modular artifacts that can then be combined to create new arti- facts, which can themselves be modularized, and so on. Modern IoT is primarily based on synthesizing new ap- plications by assembling existing technology capabilities in new ways and uniquely challenging their limits.
+>The more technology artifacts we have, the more we will have, owing to the power of recombination. Engineering relies on the encapsulation of discrete capabilities into modular artifacts that can then be combined to create new artifacts, which can themselves be modularized, and so on.
 
 ---
 ### IoT dominant paradigm
