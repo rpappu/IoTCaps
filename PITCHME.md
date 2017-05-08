@@ -84,7 +84,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 +++
 ### Computing vs. Commmunication
-![computing-vs-communication](assets/computing-vs-communication.png)
+![computing-vs-communication](assets/computing-vs-communication.jpg)
 +++
 ### Tradeoffs
 1. Range vs. Power
