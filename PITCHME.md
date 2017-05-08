@@ -25,23 +25,23 @@ Chief Architect, InQTel
 > The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it. - Marc Weiser
 
 +++
-### 3. Measurement, measurement, measurement
+## 3. Measurement, measurement, measurement
 
 > Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species can- not be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. However, measuring relevant quantities of interest can help model and understand these complex problems. 
 
 +++
-### 4. Recombinant technology capabilities
+## 4. Recombinant technology capabilities
 
 >The more technology artifacts we have, the more we will have, owing to the power of recombination. Engineering relies on the encapsulation of discrete capabilities into modular artifacts that can then be combined to create new artifacts, which can themselves be modularized, and so on.
 
 ---
-### IoT dominant paradigm
+## IoT dominant paradigm
 
 
 
 
 ---
-### Core Capabilities of Iot Systems
+## Fundamental Capabilities 
 
 1. Communication
 2. Hardware
@@ -81,6 +81,17 @@ Friis Propagation
 
 $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$ 
 
+
++++
+### Computing vs. Commmunication
+![comp-vs-communication](assets/computing-vs-communication.png)
++++
+### Tradeoffs
+1. Range vs. Power
+2. Directionality vs. Size or Cost
+3. Bandwidth vs. Power
+4. Data rate vs. Cost
+5. Computing vs. Communication
 
 ---
 ## Hardware
