@@ -27,6 +27,7 @@ Chief Architect, InQTel
 
 > The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.
 
+
 > Marc Weiser, The Computer in the 21st Century, Scientific American, September 1991.
 
 
