@@ -27,7 +27,7 @@ Chief Architect, InQTel
 +++
 ## 3. Measurement, measurement, measurement
 
-> Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species can- not be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. However, measuring relevant quantities of interest can help model and understand these complex problems. 
+> Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species can- not be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. 
 
 +++
 ## 4. Recombinant technology capabilities
@@ -84,7 +84,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 +++
 ### Computing vs. Commmunication
-![comp-vs-communication](assets/computing-vs-communication.png)
+![computing-vs-communication](assets/computing-vs-communication.png)
 +++
 ### Tradeoffs
 1. Range vs. Power
