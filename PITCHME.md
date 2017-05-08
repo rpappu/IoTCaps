@@ -18,29 +18,24 @@ Chief Architect, InQTel
 ## Idea #1
 
 ## Software representations of things
-
+>Anything that can be represented by software _will_ be represented by software...separating the logical content of objects from their physical representation – cleaving the bits from the atoms.
 
 +++
 ## Idea #2
 
 ## Invisible technology
 
-> The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it.
-
-
-> Marc Weiser, The Computer in the 21st Century, Scientific American, September 1991.
-
-
+> The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it. - Marc Weiser
 
 +++
 ### 3. Measurement, measurement, measurement
 
-
+> Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species can- not be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. However, measuring relevant quantities of interest can help model and understand these complex problems. 
 
 +++
 ### 4. Recombinant technology capabilities
 
-
+>The more technology artifacts we have, the more we will have, ow- ing to the power of recombination. Engineering relies on the encapsulation of discrete capabilities into modular artifacts that can then be combined to create new arti- facts, which can themselves be modularized, and so on. Modern IoT is primarily based on synthesizing new ap- plications by assembling existing technology capabilities in new ways and uniquely challenging their limits.
 
 ---
 ### IoT dominant paradigm
