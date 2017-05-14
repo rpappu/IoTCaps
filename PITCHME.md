@@ -105,7 +105,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 
 +++
-## Hardware requirements
+### Hardware requirements
 1. Smaller, faster, thinner, lighter
 2. Low power consumption
   * There's no Moore's Law for energy storage. IoT power improvements need to focus on improving the efficiency of processor, memory, ADC, and radios.
@@ -113,7 +113,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 3. Adaptability - Rapid prototyping and fast development cycles should be supported
 4. Multiple hardware interfaces should be supported.
 +++
-## CPU Power Consumption
+### CPU Power Consumption
 Total Power Consumption
 
 $$P_t = P_d + P_s + P_l$$
@@ -122,20 +122,28 @@ Dynamic power
 
 $$P_d = CV^2f$$ 
 +++
-## Make vs. Buy
+### Make vs. Buy
 ![juicero](assets/juicero.jpg) 
 
 > Premature optimization is the root of all evil - Donald Knuth
 +++
-## Early customers won't pay for...
+### Early customers won't pay for...
 1. How complex your hardware supply chain is <!-- .element: class="fragment" -->
 2. How hard you had to work to screenprint your 3-color logo on the case. <!-- .element: class="fragment" -->
 3. The 55 different types of fasteners you have in your assembly. <!-- .element: class="fragment" -->
 4. An expensive custom-colored micro-USB cable. <!-- .element: class="fragment" -->
 5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
 ---
+## Software / Operating System
+1. Resources: should work in low-power and resource constrained environments <!-- .element: class="fragment" -->
+2. Scalability: Should be able to run on a wide variety of hardware platforms with differing resources, and toolchains to build code targeted at these platforms <!-- .element: class="fragment" -->
+3. Modularity: Should be able to select only those components relevant to the application at hand so as to meet RAM constraints <!-- .element: class="fragment" -->
+4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
+5. Reliability: In safety applications or applications that need real-time guarantees, the OS must provide these guarantees <!-- .element: class="fragment" -->
+6. ???
 
-## Software
++++
+### Software requirements
 
 
 
