@@ -101,10 +101,17 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 ---
 ## Hardware
+> Includes 4 major subsystems: Computing, Communication, Storage, and Analog-to-digital conversion
 
 
-
-
++++
+## Hardware requirements
+1. Smaller, faster, thinner, lighter
+2. Low power consumption
+  * There's no Moore's Law for energy storage. IoT power improvements need to focus on improving the efficiency of processor, memory, ADC, and radios.
+  * Battery capacity is proportional to volume. Longer life implies bigger devices.
+3. Adaptability - Rapid prototyping and fast development cycles should be supported
+4. Multiple hardware interfaces should be supported.
 ---
 ## Software
 
