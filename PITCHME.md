@@ -120,7 +120,7 @@ $$P_t = P_d + P_sc + P_leak $$
 Dynamic power
 
 $$P_d = CV^2f$$ 
-+++
+---
 ## Software
 
 
