@@ -135,16 +135,16 @@ $$P_d = CV^2f$$
 5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
 ---
 ## Software / Operating System
+
+
++++
+### Software requirements
 1. Resources: should work in low-power and resource constrained environments <!-- .element: class="fragment" -->
 2. Scalability: Should be able to run on a wide variety of hardware platforms with differing resources, and toolchains to build code targeted at these platforms <!-- .element: class="fragment" -->
 3. Modularity: Should be able to select only those components relevant to the application at hand so as to meet RAM constraints <!-- .element: class="fragment" -->
 4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
 5. Reliability: In safety applications or applications that need real-time guarantees, the OS must provide these guarantees <!-- .element: class="fragment" -->
 6. ???
-
-+++
-### Software requirements
-
 
 
 ---
