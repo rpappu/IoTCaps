@@ -2,3 +2,4 @@ vertical-center : false
 theme-override : assets/css/PITCHME.css
 mathjax : TeX-MML-AM_HTMLorMML-full
 slide-number: true
+background-size : auto
