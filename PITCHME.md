@@ -85,7 +85,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 +++
 ### Range vs. Data Rate
 
----?image=assets/.jpg
+---?image=assets/comms.jpg
 
 ### Communications Tradeoffs
 1. Range vs. Power
