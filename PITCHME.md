@@ -21,7 +21,7 @@ Chief Architect, InQTel
 +++
 ## 3. Measurement, measurement, measurement
 
-> Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species can- not be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. 
+> Software is eating the world, but the world can’t eat software. Some of the largest challenges facing our species cannot be solved by code; we cannot program away climate change, water contamination, crowded cities, or hunger. 
 
 +++
 ## 4. Recombinant technology capabilities
@@ -29,9 +29,12 @@ Chief Architect, InQTel
 >The more technology artifacts we have, the more we will have, owing to the power of recombination. Engineering relies on the encapsulation of discrete capabilities into modular artifacts that can then be combined to create new artifacts, which can themselves be modularized, and so on.
 
 ---
+## Definition
+>The Internet of Things makes the physical world amenable to computation. 
+
 ## IoT dominant paradigm
 
-
+![dominant-paradigm](assets/iot-dominant-paradigm.jpg)
 
 
 ---
