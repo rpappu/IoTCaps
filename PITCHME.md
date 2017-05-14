@@ -133,8 +133,6 @@ $$P_d = CV^2f$$
 3. The 55 different types of fasteners you have in your assembly. <!-- .element: class="fragment" -->
 4. An expensive custom-colored micro-USB cable. <!-- .element: class="fragment" -->
 5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
-
-- Do everything you can to find and solve a real problem. <!-- .element: class="fragment" -->
 ---
 
 ## Software
