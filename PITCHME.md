@@ -140,10 +140,10 @@ $$P_d = CV^2f$$
 +++
 ### Software requirements
 1. Resources: should work in low-power and resource constrained environments <!-- .element: class="fragment" -->
-2. Scalability: Should be able to run on a wide variety of hardware platforms with differing resources, and toolchains to build code targeted at these platforms <!-- .element: class="fragment" -->
-3. Modularity: Should be able to select only those components relevant to the application at hand so as to meet RAM constraints <!-- .element: class="fragment" -->
+2. Scalability: Should be able to run on a wide variety of hardware platforms <!-- .element: class="fragment" -->
+3. Modularity: Should be able to select only those components relevant to the application <!-- .element: class="fragment" -->
 4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
-5. Reliability: In safety applications or applications that need real-time guarantees, the OS must provide these guarantees <!-- .element: class="fragment" -->
+5. Reliability: If needed, the OS must provide real-time guarantees <!-- .element: class="fragment" -->
 6. ???
 
 
