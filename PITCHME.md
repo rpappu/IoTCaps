@@ -31,7 +31,7 @@ Chief Architect, InQTel
 ---
 ## Definition
 >The Internet of Things makes the physical world amenable to computation. 
-
+---
 ## IoT dominant paradigm
 
 ![dominant-paradigm](assets/iot-dominant-paradigm.jpg)
