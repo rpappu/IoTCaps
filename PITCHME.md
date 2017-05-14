@@ -112,7 +112,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
   * Battery capacity is proportional to volume. Longer life implies bigger devices.
 3. Adaptability - Rapid prototyping and fast development cycles should be supported
 4. Multiple hardware interfaces should be supported.
----
++++
 ## CPU Power Consumption
 Total Power Consumption
 $$P_t = P_d + P_sc + P_leak $$
@@ -120,6 +120,7 @@ $$P_t = P_d + P_sc + P_leak $$
 Dynamic power
 
 $$P_d = CV^2f$$ 
+
 ---
 ## Software
 
