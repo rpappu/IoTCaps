@@ -80,11 +80,14 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 
 +++
+
 ### Computing vs. Commmunication
 ![computing-vs-communication](assets/computing-vs-communication.jpg)
 +++
+
 ### Range vs. Data Rate
----?image=assets/comms.jpg
++++?image=assets/comms.jpg
+
 +++
 
 ### Communications Tradeoffs
