@@ -35,7 +35,7 @@ Chief Architect, InQTel
 ---
 ## IoT dominant paradigm
 
-![dominant-paradigm](assets/iot-dominant-paradigm-smallest.jpg)
+![dominant-paradigm](assets/iot-paradigm-micro.jpg)
 
 ---
 ## Fundamental Capabilities 
