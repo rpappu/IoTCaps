@@ -123,7 +123,9 @@ Dynamic power
 $$P_d = CV^2f$$ 
 +++
 ## Make vs. Buy
-![huicero](assets/juicero.jpg)
+![juicero](assets/juicero.jpg) <!-- .element: class="fragment" -->
+
+> Premature optimization is the root of all evil - Donald Knuth
 ---
 ## Software
 
