@@ -134,7 +134,7 @@ $$P_d = CV^2f$$
 4. An expensive custom-colored micro-USB cable. <!-- .element: class="fragment" -->
 5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
 
-> Do everything you can to find and solve a real problem. 
+- Do everything you can to find and solve a real problem. <!-- .element: class="fragment" -->
 ---
 
 ## Software
