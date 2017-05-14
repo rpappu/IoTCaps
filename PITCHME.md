@@ -88,7 +88,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 +++ 
 ### Data Rate vs. Range
-![computing-vs-communication](assets/comms.jpg)
+![data rates](assets/comms.jpg)
 
 +++
 
@@ -145,8 +145,16 @@ $$P_d = CV^2f$$
 4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
 5. Reliability: If needed, the OS must provide real-time guarantees <!-- .element: class="fragment" -->
 6. ??? <!-- .element: class="fragment" -->
++++
+### OS Choices
+> IoT-specific OSes - RIOT, Contiki, TinyOS, ROS
 
+> General-purpose OSes - Linux, Android, etc
 
+> Full-stack platforms - mBed, AWS IoT etc.
++++
+### An interesting approach
+![platformio](assets/platformio.jpg)
 ---
 ## Management
 
