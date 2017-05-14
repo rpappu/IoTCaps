@@ -5,6 +5,8 @@ Ravi Pappu
 
 Chief Architect, InQTel
 
+> Disclaimer: This presentation contains only my opinions. I am not representing the opinions or positions of my employer or any agency related to my employer.
+
 ---
 ## Four Big Ideas
 
@@ -84,7 +86,8 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 ### Computing vs. Commmunication
 ![computing-vs-communication](assets/computing-vs-communication.jpg)
 
-+++?image=assets/comms.jpg
+### Data Rate vs. Range
+![computing-vs-communication](assets/comms.jpg)
 
 +++
 
