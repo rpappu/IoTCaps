@@ -123,9 +123,9 @@ Dynamic power
 $$P_d = CV^2f$$ 
 +++
 ### Make vs. Buy
-![juicero](assets/juicero.jpg) 
+![juicero](assets/juicero.jpg) <!-- .element: class="fragment" -->
 
-> Premature optimization is the root of all evil - Donald Knuth
+> Premature optimization is the root of all evil - Donald Knuth <!-- .element: class="fragment" -->
 +++
 ### Early customers won't pay for...
 1. How complex your hardware supply chain is <!-- .element: class="fragment" -->
@@ -144,7 +144,7 @@ $$P_d = CV^2f$$
 3. Modularity: Should be able to select only those components relevant to the application <!-- .element: class="fragment" -->
 4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
 5. Reliability: If needed, the OS must provide real-time guarantees <!-- .element: class="fragment" -->
-6. ???
+6. ??? <!-- .element: class="fragment" -->
 
 
 ---
