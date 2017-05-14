@@ -116,7 +116,7 @@ $$P_r = P_t G_t G_r \frac{(\lambda)^2}{(4 \pi r)^2}$$
 ## CPU Power Consumption
 Total Power Consumption
 
-$$P_t = P_d + P_sc + P_leak $$
+$$P_t = P_d + P_{sc} + P_{leak} $$
 
 Dynamic power
 
