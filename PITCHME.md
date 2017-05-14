@@ -134,11 +134,11 @@ $$P_d = CV^2f$$
 4. An expensive custom-colored micro-USB cable. <!-- .element: class="fragment" -->
 5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
 ---
-## Software / Operating System
+## Software
 
 
 +++
-### Software requirements
+### OS requirements
 1. Resources: should work in low-power and resource constrained environments <!-- .element: class="fragment" -->
 2. Scalability: Should be able to run on a wide variety of hardware platforms <!-- .element: class="fragment" -->
 3. Modularity: Should be able to select only those components relevant to the application <!-- .element: class="fragment" -->
