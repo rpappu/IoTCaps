@@ -121,7 +121,9 @@ $$P_t = P_d + P_s + P_l$$
 Dynamic power
 
 $$P_d = CV^2f$$ 
-
++++
+## Make vs. Buy
+![huicero](assets/juicero.jpg)
 ---
 ## Software
 
