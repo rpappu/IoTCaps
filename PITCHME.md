@@ -126,7 +126,17 @@ $$P_d = CV^2f$$
 ![juicero](assets/juicero.jpg) 
 
 > Premature optimization is the root of all evil - Donald Knuth
++++
+## Early customers won't pay for...
+1. How complex your hardware supply chain is <!-- .element: class="fragment" -->
+2. How hard you had to work to screenprint your 3-color logo on the case. <!-- .element: class="fragment" -->
+3. The 55 different types of fasteners you have in your assembly. <!-- .element: class="fragment" -->
+4. An expensive custom-colored micro-USB cable. <!-- .element: class="fragment" -->
+5. 72.5 iterations of your product design from a highly-rated ID firm. <!-- .element: class="fragment" -->
+
+> Do everything you can to find and solve a real problem. 
 ---
+
 ## Software
 
 
