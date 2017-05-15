@@ -153,8 +153,11 @@ $$P_d = CV^2f$$
 
 > Full-stack platforms - mBed, AWS IoT etc.
 +++
-### An interesting approach - platformio.org
+### A new approach - platformio.org
 ![platformio](assets/platformio.jpg)
++++
+### A new approach - platformio.org
+![platformio-libraries](assets/platformio-libraries.jpg)
 ---
 ## Management
 
