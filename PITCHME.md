@@ -82,7 +82,7 @@ $$P\_{rec} = P\_{xmit} G\_{xmit} G\_{rec} \frac{(\lambda)^2}{(4 \pi r)^2}$$
 
 
 +++
-### Computing vs. Commmunication
+### Energy of Electronics vs. Commmunication
 ![computing-vs-communication](assets/computing-vs-communication.jpg)
 <br>
 <span style="color:gray; font-size:0.3em;">Sodini and Wang, On the energy efficiency of wireless transceivers</span> 
