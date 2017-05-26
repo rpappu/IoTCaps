@@ -64,7 +64,7 @@ _Sensing and Power are also core capabilities. I chose to omit them here because
 2. Long range 
 3. Long operating times i.e., low power consumption
 4. High concurrency
-5. Efficiency: optimized for short data payloads
+5. Efficiency: optimized for short data payloads (IPv6 won't work)
 6. Mobility
 7. In-building penetration
 8. Bi-directional communication
@@ -148,7 +148,7 @@ $$P_d = CV^2f$$
 6. ??? <!-- .element: class="fragment" -->
 +++
 ### OS Choices
-Two important approaches: 
+Two approaches - top-down and bottom-up
 
 > IoT-specific OSes - RIOT, Contiki, TinyOS, ROS
 
