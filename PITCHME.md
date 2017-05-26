@@ -100,6 +100,7 @@ $$P\_{rec} = P\_{xmit} G\_{xmit} G\_{rec} \frac{(\lambda)^2}{(4 \pi r)^2}$$
 4. Data rate vs. Cost
 5. Computing vs. Communication
 
++++
 ### Communication Stack
 ![comms-stack](assets/comms-stack.jpg)
 
