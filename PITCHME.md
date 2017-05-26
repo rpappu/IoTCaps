@@ -178,12 +178,9 @@ Two approaches - top-down and bottom-up
 ## Security
 
 Securing IoT Nodes comprises:
- > Data integrity: Is Node hardware and software operating as designed and not
-tampered with?
- > Authentication/authorization: Is the Node talking to a legitimate entity? Is that
-entity authorized to communicate with the Node?
- > Confidentiality: Is Node data protected from eavesdropping?
-
+ > Data integrity
+ > Authentication/authorization
+ > Confidentiality
 
 
 
