@@ -148,9 +148,11 @@ $$P_d = CV^2f$$
 6. ??? <!-- .element: class="fragment" -->
 +++
 ### OS Choices
+Two important approaches: 
+
 > IoT-specific OSes - RIOT, Contiki, TinyOS, ROS
 
-> General-purpose OSes - Linux, Android, etc
+> General-purpose OSes - Linux, Android, Brillo, etc
 
 > Full-stack platforms - mBed, AWS IoT etc.
 +++
