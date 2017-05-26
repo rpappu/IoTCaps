@@ -164,11 +164,25 @@ Two approaches - top-down and bottom-up
 ---
 ## Management
 
+> Managing involves Provisioning, Controlling, Updating, Logging and Monitoring IoT networks
 
++++
+### Requirements for Managing IoT
+1. Resources: Constrained Nodes which cannot implement complex management protocols <!-- .element: class="fragment" -->
+2. Scale: Support for thousands of nodes <!-- .element: class="fragment" -->
+3. Occasionally connected: Nodes can be powered down or go out of range at any time <!-- .element: class="fragment" -->
+4. No downtime: Managing activities might need to take place while the device is operational <!-- .element: class="fragment" -->
+5. High cost of failure: Failures might cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
 
 ---
 ## Security
 
+Securing IoT Nodes comprises:
+ > Data integrity: Is Node hardware and software operating as designed and not
+tampered with?
+ > Authentication/authorization: Is the Node talking to a legitimate entity? Is that
+entity authorized to communicate with the Node?
+ > Confidentiality: Is Node data protected from eavesdropping?
 
 
 
