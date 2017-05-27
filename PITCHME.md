@@ -182,7 +182,7 @@ Two approaches - top-down and bottom-up
 4. No downtime: Managing activities might need to take place while the device is operational <!-- .element: class="fragment" -->
 5. High cost of failure: Failures might cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
 
-+++?image=assets/phone-home.jpg
++++?image=assets/switchboard.jpg
 
 ---
 ## Security
