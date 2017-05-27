@@ -203,10 +203,8 @@ Securing IoT Nodes comprises:
 5. Weak links: Patchwork of systems increases attack surface
 6. Skills: Deployed by non-IT staff with no background in cyber-security
 
-+++
-### IoT security landscape
++++?image=assets/iot-security.jpg
 
-![iot-security](assets/iot-security.jpg)
 
 ---
 ## Analytics
