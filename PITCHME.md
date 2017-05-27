@@ -261,4 +261,5 @@ Computing some function of the input data stream when:
 3. Use schema-less data models so you can evolve your data products
 4. Don't optimize until you have a real problem
 5. Use logs and monitoring to see if you have a real problem
+6. Always know the theoretical limits of your systems. 
 6. Profit! 
