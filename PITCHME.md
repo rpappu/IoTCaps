@@ -182,6 +182,10 @@ Two approaches - top-down and bottom-up
 4. No downtime: Managing activities might need to take place while the device is operational <!-- .element: class="fragment" -->
 5. High cost of failure: Failures might cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
 
++++
+### IoT Phone Home
+![phone-home](assets/phone-home.jpg)
+
 ---
 ## Security
 
@@ -190,7 +194,19 @@ Securing IoT Nodes comprises:
  > Authentication/authorization
  > Confidentiality
 
++++
+### Challenges for IoT security
+1. Usually absent: No motivation for security by design
+2. Budget: No cost budget for security because of need for low-cost Nodes
+3. Constrained resources: Constrained hardware and software environments not conducive to security
+4. Remoteness: Physical security is impossible in unmanned or distant Nodes
+5. Weak links: Patchwork of systems increases attack surface
+6. Skills: Deployed by non-IT staff with no background in cyber-security
 
++++
+### IoT security landscape
+
+![iot-security](assets/iot-security.jpg)
 
 ---
 ## Analytics
