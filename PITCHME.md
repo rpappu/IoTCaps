@@ -224,9 +224,33 @@ sensors
    - Pushing analytics to the **edge**
 
 +++
+### IoT-specific challenges
+1. Big Data: Machine generated data brings increase in data volumes and speed of ingestion
+   - Requires rethinking of traditional ingestion systems and methods.
+   - Efficient methods to store and retrieve large numbers of small-payload needed.
+2. Occasional Connectecness: Data can arrive out of order
+3. Privacy: Privacy implications of individually-identifiable data in sensor-rich world
 
-###
-
-
-
++++
+### Advances in analytics
+1. New data abstractions - e.g., resilient distributed datasets in Apache Spark.
+   - enables a spectrum of possibilities from all batch processing, micro-batch processing, one-at-a-time processing
+2. New data processing architectures - e.g. Lambda Architecture 
+3. Specialized databases for different workloads
+   - SQL, document, graph, key-value, multi-model, geospatial, time-series, GPU-accelerated....
+4. Streaming algorithms
++++
+### Streaming algorithms
+Computing some function of the input data stream when:
+   - The amount of memory available is much smaller than the size of the entire stream
+   - We want to access each element of the stream as few times as possible (preferably once)
+   - There's only a limited amount of processing time available for each item
++++
+### Some popular streaming/probabilistic problems
+- Average value of a sequence of measurements
+- Top-K elements (also called heavy hitters)
+- Distinct elements of a data stream
+- Event detection
+- Set membership 
+   - returns either "possibly in set" with bounded probability or "definitely not in set"
 
