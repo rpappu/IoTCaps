@@ -256,10 +256,10 @@ Computing some function of the input data stream when:
 
 ---
 ## Final thoughts
-1. Solve real problems
-2. Get only as much data as necessary - or less if possible. 
-3. Use schema-less data models so you can evolve your data products
-4. Don't optimize until you have a real problem
-5. Use logs and monitoring to see if you have a real problem
-6. Always know the theoretical limits of your systems. 
-6. Profit! 
+1. Solve real problems. <!-- .element: class="fragment" -->
+2. Get only as much data as necessary - or less if possible. <!-- .element: class="fragment" -->
+3. Use schema-less data models so you can evolve your data products. <!-- .element: class="fragment" -->
+4. Don't optimize until you have a real problem. <!-- .element: class="fragment" -->
+5. Use logs and monitoring to see if you have a real problem. <!-- .element: class="fragment" -->
+6. Always know the theoretical limits of your systems.<!-- .element: class="fragment" -->
+6. Profit! <!-- .element: class="fragment" -->
