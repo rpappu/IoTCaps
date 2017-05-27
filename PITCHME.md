@@ -254,3 +254,11 @@ Computing some function of the input data stream when:
 - Set membership 
    - returns either "possibly in set" with bounded probability or "definitely not in set"
 
+---
+## Final thoughts
+1. Solve real problems
+2. Get only as much data as necessary - or less if possible. 
+3. Use schema-less data models so you can evolve your data products
+4. Don't optimize until you have a real problem
+5. Use logs and monitoring to see if you have a real problem
+6. Profit! 
