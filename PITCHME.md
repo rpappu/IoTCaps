@@ -104,6 +104,10 @@ $$P\_{rec} = P\_{xmit} G\_{xmit} G\_{rec} \frac{(\lambda)^2}{(4 \pi r)^2}$$
 ### Communication Stack
 ![comms-stack](assets/comms-stack.jpg)
 
++++
+### Communication Landscape
+![comms-governance](assets/comms-governance.jpg)
+
 ---
 ## Hardware
 > Includes 4 major subsystems: Computing, Communication, Storage, and Analog-to-Digital conversion
