@@ -129,7 +129,7 @@ $$P\_{total} = P\_{dyn.} + P\_{sc} + P\_{leakage}$$
 
 Dynamic power
 
-$$P_d = CV^2f$$ 
+$$P\_{dyn.} = CV^2f$$ 
 +++
 ### Make vs. Buy
 ![juicero](assets/juicero.jpg) <!-- .element: class="fragment" -->
