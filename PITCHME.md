@@ -205,7 +205,7 @@ Securing IoT Nodes comprises:
 ### Two approaches...once again
 - Optimizing existing crypto
    - Reduction in AES resource requirements to run in a smaller number of gate equivalents.
-   - Current state of the art includes a 2400 and 2090 GE implementation in hardware, using 8-bit AVR MCUs, 124.6 and 181.3 cycles per byte for encryption/decryption
+   - Current state of the art includes a 2400 and 2090 GE implementation in hardware, using 8-bit AVR MCUs.
    - DES has been modified to become lighter and can be implemented in 35% fewer gates than AES
 - Lightweight Crypto (LWC)
    - NSA Trusted Systems Group has proposed SIMON and SPECK towards the standard. Both of these have <2000 GE implementations.
@@ -213,7 +213,6 @@ Securing IoT Nodes comprises:
    - ECRYPT: Grain, Mickey, and Trivium
 
 +++?image=assets/iot-security.jpg
-
 
 ---
 ## Analytics
