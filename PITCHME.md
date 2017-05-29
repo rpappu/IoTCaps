@@ -180,7 +180,7 @@ Two approaches - top-down and bottom-up
 2. Scale: Support for thousands of nodes <!-- .element: class="fragment" -->
 3. Occasionally connected: Nodes can be powered down or go out of range at any time <!-- .element: class="fragment" -->
 4. No downtime: Managing activities might need to take place while the device is operational <!-- .element: class="fragment" -->
-5. High cost of failure: Failures might cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
+5. High cost of failure: Failures could cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
 
 +++?image=assets/switchboard.jpg
 
@@ -249,4 +249,4 @@ Computing some function of the input data stream when:
 4. Don't optimize until you have a real problem. <!-- .element: class="fragment" -->
 5. Use logs and monitoring to see if you have a real problem. <!-- .element: class="fragment" -->
 6. Always know the theoretical limits of your systems.<!-- .element: class="fragment" -->
-6. Profit! <!-- .element: class="fragment" -->
+6. _When you see a good move, think of a better one_ - Emmanuel Lasker <!-- .element: class="fragment" -->
