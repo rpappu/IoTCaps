@@ -249,4 +249,4 @@ Computing some function of the input data stream when:
 4. Don't optimize until you have a real problem. <!-- .element: class="fragment" -->
 5. Use logs and monitoring to see if you have a real problem. <!-- .element: class="fragment" -->
 6. Always know the theoretical limits of your systems.<!-- .element: class="fragment" -->
-6. _When you see a good move, think of a better one_ - Emmanuel Lasker <!-- .element: class="fragment" -->
+6. _When you see a good move, think of a better one. E. Lasker_ <!-- .element: class="fragment" -->
