@@ -148,12 +148,12 @@ $$P\_{dyn.} = CV^2f$$
 
 +++
 ### OS requirements
-1. Resources: should work in low-power and resource constrained environments <!-- .element: class="fragment" -->
-2. Scalability: Should be able to run on a wide variety of hardware platforms <!-- .element: class="fragment" -->
-3. Modularity: Should be able to select only those components relevant to the application <!-- .element: class="fragment" -->
-4. Connectivity: Availability of standard wired and wireless networking stacks <!-- .element: class="fragment" -->
-5. Reliability: If needed, the OS must provide real-time guarantees <!-- .element: class="fragment" -->
-6. ??? <!-- .element: class="fragment" -->
+1. Resources: should work in low-power and resource constrained environments 
+2. Scalability: Should be able to run on a wide variety of hardware platforms 
+3. Modularity: Should be able to select only those components relevant to the application 
+4. Connectivity: Availability of standard wired and wireless networking stacks 
+5. Reliability: If needed, the OS must provide real-time guarantees 
+6. ??? 
 +++
 ### OS Choices
 Two approaches - top-down and bottom-up
@@ -176,11 +176,11 @@ Two approaches - top-down and bottom-up
 
 +++
 ### Requirements for Managing IoT
-1. Resources: Constrained Nodes which cannot implement complex management protocols <!-- .element: class="fragment" -->
-2. Scale: Support for thousands of nodes <!-- .element: class="fragment" -->
-3. Occasionally connected: Nodes can be powered down or go out of range at any time <!-- .element: class="fragment" -->
-4. No downtime: Managing activities might need to take place while the device is operational <!-- .element: class="fragment" -->
-5. High cost of failure: Failures could cause the Node to be “bricked”, leading to expensive recalls <!-- .element: class="fragment" -->
+1. Resources: Constrained Nodes which cannot implement complex management protocols 
+2. Scale: Support for thousands of nodes 
+3. Occasionally connected: Nodes can be powered down or go out of range at any time 
+4. No downtime: Managing activities might need to take place while the device is operational 
+5. High cost of failure: Failures could cause the Node to be “bricked”, leading to expensive recalls 
 
 +++?image=assets/switchboard.jpg
 
